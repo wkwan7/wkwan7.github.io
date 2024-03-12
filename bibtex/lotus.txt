@@ -1,0 +1,6 @@
+@article{wan2024lotus,
+  title={Lotus: Continual imitation learning for robot manipulation through unsupervised skill discovery},
+  author={Wan, Weikang and Zhu, Yifeng and Shah, Rutav and Zhu, Yuke},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2024}
+}
